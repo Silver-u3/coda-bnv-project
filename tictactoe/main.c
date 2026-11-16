@@ -48,7 +48,7 @@ int main()
       }
       else
       {
-         printf("Bravo");
+         printf("Bravo\n");
       }
    }
    free(info);

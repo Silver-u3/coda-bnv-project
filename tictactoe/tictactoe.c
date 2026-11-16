@@ -62,6 +62,7 @@ char* bot(char* info)
       i=i+1;
    }
    info[i]='O';
+   printf("tour du bot :\n");
    return(info);
 }
 
